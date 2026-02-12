@@ -46,20 +46,6 @@ Each project emphasizes structured design, mathematical grounding, and implement
 
 ---
 
-## Engineering Philosophy
-
-I value:
-
-- Strong theoretical foundations  
-- Clean, maintainable architectures  
-- Performance awareness  
-- Measurable system behavior  
-- Continuous iteration and refinement  
-
-I am particularly interested in roles or collaborations involving machine learning systems, quantitative engineering, and high-impact software infrastructure.
-
----
-
 ## Education
 
 **B.Sc. Computer Engineering**  
