@@ -1,5 +1,5 @@
 # Albert Marín  
-### Software Engineer Student | AI & Quantitative Systems
+### Software Engineer Student | Software Development & AI & Quantitative Finance Enthusiast
 
 **Portfolio:** https://malbertmb.github.io/  
 
