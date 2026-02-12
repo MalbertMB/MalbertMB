@@ -1,70 +1,79 @@
-# Albert Marín — Software Engineer Student
+# Albert Marín  
+### Software Engineer Student | AI & Quantitative Systems
 
-## Overview
-
-I am a Computer Engineering student at the **University of Barcelona**, focused on the intersection of **software engineering**, **artificial intelligence**, and **quantitative finance**. My work bridges complex mathematical theory with scalable software solutions, with particular interest in reinforcement learning and algorithmic systems.
-
-The portfolio presents a curated selection of projects, tools, and professional experience that illustrate both technical depth and applied engineering practice.
-
-## About Me
-
-I specialize in engineering solutions at the convergence of machine learning, financial systems, and full-stack development. My current academic and practical work encompasses reinforcement learning agents, quantitative trading frameworks, and high-performance application development.
-
-### Technical Focus Areas
-
-- **AI & Data Science:** Machine Learning, Scikit-Learn, NumPy, Pandas, Algorithmics, Discrete Mathematics  
-- **Quantitative Finance:** Algorithmic Trading, Risk Management, Technical Analysis, API Integration  
-- **Software Engineering:** Python, Java, C/C++, SQL, Android Development, Docker, Cloud Services
-
-## Projects
-
-The portfolio highlights representative work demonstrating technical rigor and problem-solving capability:
-
-1. **Hybrid Phishing Detector**  
-   Dual-layer AI security system combining Q-Learning and KNN fallback for robust zero-day URL detection.  
-   Technologies: Python, Reinforcement Learning, Scikit-Learn  
-   
-2. **Geospatial Social Review Ecosystem (“CagaUB”)**  
-   Full-stack Android application for location-based reviews with real-time backend synchronization.  
-   Technologies: Android (Java/XML), Firebase, Cloudinary, Reactive Programming
-
-3. **Volatility-Adjusted Trading Framework (In Progress)**  
-   Automated trading system leveraging technical indicators for performance evaluation.  
-   Technologies: Python, Alpaca API, Quantitative Metrics
-
-4. **ML-Market Predictor**  
-   Predictive analytics engine for financial time series forecasting.  
-   Technologies: Python, Deep Learning, Pandas
-
-5. **Algorithmic Research Projects**  
-   - Open-Ngram Multinomial Naive Bayes classifier for language detection  
-   - Heuristic Collaborative Filtering recommender engine  
-   Technologies: Python, NumPy, Vectorized Computation
-
-## Professional Experience
-
-- **Health Systems & Operations Specialist** — Fundació Hospital d’Olot i Comarcal de la Garrotxa  
-  Managed patient flow, analytics, and sensitive data using specialized enterprise software.
-
-- **Pharmaceutical Operations Intern** — Farmàcia LaSans Olot  
-  Supported logistics and inventory systems, ensuring compliance and operational accuracy.
-
-## Education
-
-**Bachelor’s Degree in Computer Engineering**  
-*Universitat de Barcelona* (Expected 2026)  
-Focus: Software Architecture, AI, Advanced Data Structures and Algorithms
-
-## Contact
-
-- LinkedIn: https://linkedin.com/in/albert-marin  
-- GitHub: https://github.com/malbertmb
-
-## Deployment
-
-The portfolio site is published via GitHub Pages.  
-If cloning or editing this repository, build and deploy the site using standard static site procedures or GitHub Pages deployment workflows.
+**Portfolio:** https://malbertmb.github.io/  
 
 ---
 
-*This README reflects the public content of the portfolio hosted at https://malbertmb.github.io/.*  
+I am a Computer Engineering Student focused on building systems where mathematics, artificial intelligence, and software engineering intersect.  
+
+My work is driven by a strong interest in reinforcement learning, algorithmic design, and quantitative finance. I approach engineering as both a technical and analytical discipline, prioritizing clarity, scalability, and measurable performance.
+
+---
+
+## Technical Focus
+
+I work primarily across three domains:
+
+**Artificial Intelligence & Data Science**  
+Machine Learning · Reinforcement Learning · Scikit-Learn · NumPy · Pandas · Algorithm Design · Discrete Mathematics  
+
+**Software Engineering**  
+Python · Java · C/C++ · SQL · Android Development · Docker · Cloud Services  
+
+**Quantitative & Financial Systems**  
+Algorithmic Trading · Risk Modeling · Technical Analysis · Market Data APIs · Performance Evaluation  
+
+---
+
+## Selected Work
+
+### Hybrid Phishing Detection System  
+A dual-layer architecture combining Q-Learning with a KNN fallback classifier to improve robustness against zero-day phishing URLs. Designed to balance adaptive learning with deterministic safety mechanisms.
+
+### Geospatial Social Review Platform  
+Full-stack Android application built with real-time backend synchronization and cloud storage integration. Focused on scalable architecture and reactive data handling.
+
+### Volatility-Adjusted Trading Framework *(in development)* 
+An automated trading system integrating technical indicators with risk-adjusted performance metrics. Built around reproducible quantitative evaluation.
+
+### Algorithmic & ML Research Projects  
+- Multinomial Naive Bayes language detection engine  
+- Heuristic collaborative filtering recommender system  
+- Financial time-series predictive models  
+
+Each project emphasizes structured design, mathematical grounding, and implementation efficiency.
+
+---
+
+## Engineering Philosophy
+
+I value:
+
+- Strong theoretical foundations  
+- Clean, maintainable architectures  
+- Performance awareness  
+- Measurable system behavior  
+- Continuous iteration and refinement  
+
+I am particularly interested in roles or collaborations involving machine learning systems, quantitative engineering, and high-impact software infrastructure.
+
+---
+
+## Education
+
+**B.Sc. Computer Engineering**  
+University of Barcelona  
+Expected 2026  
+
+Coursework emphasis: Algorithms, Software Architecture, Artificial Intelligence, Systems Engineering.
+
+---
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/albert-marin  
+GitHub: https://github.com/malbertmb  
+Email: albert.marin.bl@gmail.com  
+
+---
