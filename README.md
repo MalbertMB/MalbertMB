@@ -1,7 +1,7 @@
-# Albert Marín  
+# Albert Marín Blasco
 ### Software Engineer Student | Software Development & AI & Quantitative Finance Enthusiast
 
-**Portfolio:** https://malbertmb.github.io/  
+### **Portfolio:** https://malbertmb.github.io/  
 
 ---
 
