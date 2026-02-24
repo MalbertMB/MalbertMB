@@ -50,7 +50,7 @@ Each project emphasizes structured design, mathematical grounding, and implement
 
 **B.Sc. Computer Engineering**  
 University of Barcelona  
-Expected 2026  
+Expected 2027  
 
 Coursework emphasis: Algorithms, Software Architecture, Artificial Intelligence, Systems Engineering.
 
